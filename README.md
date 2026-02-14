@@ -18,6 +18,7 @@ The dataset contains labeled images of cats and dogs organized into training, va
 
 Typical dataset structure:
 
+'''
 dataset/
 ├── train/
 │   ├── cats/
@@ -28,6 +29,7 @@ dataset/
 └── test/
     ├── cats/
     └── dogs/
+'''
 
 Due to GitHub storage limitations, the dataset is not included in this repository.
 
