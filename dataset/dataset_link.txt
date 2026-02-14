@@ -1,0 +1,4 @@
+Dataset used in this project can be downloaded from:
+https://www.kaggle.com/datasets/tongpython/cat-and-dog
+After downloading, extract and place inside the "dataset" folder before running the notebook.
+
